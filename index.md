@@ -2,4 +2,5 @@
 ### This is `<H3>`
 ###### This is `<H6>`
 
-Added some headers using `#`
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
